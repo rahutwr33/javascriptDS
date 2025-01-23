@@ -1,3 +1,7 @@
+/*
+ using secondary array as a min. which track min element
+ space complexity - O(n)
+*/
 class MinStack {
     constructor() {
         this.stack = [];
